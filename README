@@ -6,3 +6,6 @@ An RSS reader at its minimum utilize a lot of things, such as: content fetching,
 I already started this project for sometimes now, locally. I've tried to fetch feed from my own blog and realise that AndroidHttpClient will only work on its own thread (instead of main activity thread). Well, I don't have any multi-thread programming experience so I resort to use DefaultHttpClient instead. Works like charm but it'll freeze the activity.  
 
 Well, I also have a limited amount of experience with Java so to speak. So, I can safely assume this will be a long way to go. ;)
+
+2012-03-27
+Continue to work on this project.
