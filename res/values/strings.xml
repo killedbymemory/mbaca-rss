@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, MainActivity!</string>
-    <string name="app_name">Mbaca-rss</string>
+    <string name="hello">Hello World, NowActivity!</string>
+    <string name="app_name">Now</string>
+    <string name="list_of_name_no_data">Tidak ada nama di database</string>
 
 </resources>
